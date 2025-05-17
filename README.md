@@ -88,7 +88,8 @@ vehicle-damage-detection/
 
 ## 📸 Example
 
-![img.png](img.png)
+![Screenshot 2025-05-17 165824](https://github.com/user-attachments/assets/d3cc9754-9490-46e9-979d-6a57ec603a6d)
+
 
 ```
 Predicted Class: Front Breakage
