@@ -32,8 +32,8 @@ Upload a car image and let the model classify it into one of six categories:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/vehicle-damage-detection.git
-cd vehicle-damage-detection
+git clone https://github.com/ParthBharadia/Car_Damage_Prediction_Project.git
+cd Car_Damage_Prediction_Project
 ````
 
 ### 2. Create a virtual environment
